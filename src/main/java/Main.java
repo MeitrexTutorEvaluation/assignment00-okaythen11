@@ -41,6 +41,6 @@ public class Main {
              solution=solution*n;
              n=n-1;
         }
-        return 0;
+        return solution;
     }
 }
